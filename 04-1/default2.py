@@ -6,3 +6,5 @@ def say_myself(name, man=True, old):
         print("남자입니다.") 
     else: 
         print("여자입니다.")
+
+''' SyntaxError: parameter without a default follows parameter with a default 에러 발생 '''
